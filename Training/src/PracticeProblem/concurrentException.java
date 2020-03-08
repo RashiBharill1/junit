@@ -7,7 +7,7 @@ import java.util.Iterator;
 public class concurrentException {
 	public static void main(String[] args) {
 		ArrayList al = new ArrayList();
-		Orange o=new Orange();
+		
 
 		al.add("m1");
 		al.add("m2");
